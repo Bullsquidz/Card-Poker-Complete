@@ -1,4 +1,4 @@
-# Card-Poker-Complete
+# Card-Poker
 A card poker program where you can connect with multiple clients and play within the same locally-hosted server.
 
 While this isn't the original repository where the work was done, this repository serves as the house that contains both the separate server and client programs made by Tunda and me, respectively.
