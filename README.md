@@ -34,4 +34,4 @@ For both applications, when in a directory with a POM file, type ``mvn compile``
 **You can refresh your score and change the look of your UI through the menu on the top left.**
 
 ## Screenshots
-![Screenshot](screenshots/s1.png) ![Screenshot](screenshots/s2.png) ![Screenshot](screenshots/s3.png) ![Screenshot](screenshots/s4.png) ![Screenshot](screenshots/s5.png) ![Screenshot](screenshots/s6.png) 
+![Screenshot1](screenshots/s1.png) ![Screenshot2](screenshots/s2.png) ![Screenshot3](screenshots/s3.png) ![Screenshot4](screenshots/s4.png)
